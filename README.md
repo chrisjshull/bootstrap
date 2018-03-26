@@ -20,11 +20,9 @@ To get started with this bootstrap:
 [![David](https://img.shields.io/david/__PROJECT_GH_USER__/__PROJECT_NAME__.svg)](__PROJECT_GH_URL__)
 -->
 
+`npm install __PROJECT_NAME__`
+
 __PROJECT_DESC__
-
-
-`npm install --save __PROJECT_NAME__`
-
 
 [Live Example](docs/index.html)
 
