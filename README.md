@@ -24,6 +24,6 @@ To get started with this bootstrap:
 
 __PROJECT_DESC__
 
-[Live Example](docs/index.html)
+[Live Example](__PROJECT_WEB_URL__/docs/)
 
-[API Docs](docs/api/)
+[API Docs](__PROJECT_WEB_URL__/docs/api/)
